@@ -1,5 +1,7 @@
 # 來自非洲的樂器 - 拇指鋼琴
 
+![](https://github.com/kidspring/kalimba/blob/master/res/img/kalimba.jpg)
+
 拇指琴的由來
  
 非洲的民族樂器。
